@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomTabLayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ringzz_fragment">Ringzz fragment</string>
+    <string name="favorites_fragment">Favorites fragment</string>
+    <string name="contacts_fragment">Contacts fragment</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Stefan Ckrebo</item>
+        <item>Aleksandar Bakovic</item>
+        <item>Veljko Stevanic</item>
+        <item>Dejan Cetenovic</item>
+        <item>Milorad Jovanovic</item>
+        <item>NIkola Milutinovic</item>
+        <item>Marko Djokovic</item>
+        <item>Aleksandar Jovanovic</item>
+        <item>Darko Delic</item>
+        <item>Darko Damljanovic</item>
+        <item>Slavica Karlicic</item>
+        <item>Slavisa Karlicic</item>
+        <item>Marijana Vojinovic</item>
+        <item>Aleksandar Vasilic</item>
+        <item>Ranko Bacevic</item>
+        <item>Marko Sekulic</item>
+        <item>Milan Milasinovic</item>
+        <item>Zdravko Colic</item>
+        <item>Zeljko Joksimovic</item>
+        <item>Stiven Sigal</item>
+    </string-array>
+    <string-array name="statuses">
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>Adventure</item>
+        <item>Biography</item>
+        <item>Action</item>
+        <item>Crime</item>
+        <item>Biography</item>
+        <item>Adventure</item>
+        <item>Biography</item>
+        <item>Drama</item>
+        <item>Drama</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Biography</item>
+        <item>Adventure</item>
+        <item>Action</item>
+        <item>Biography</item>
+        <item>Crime</item>
+        <item>Crime</item>
+        <item>Drama</item>
+    </string-array>
+</resources>

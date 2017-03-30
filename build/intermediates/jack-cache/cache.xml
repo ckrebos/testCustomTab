@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stefan/.android/build-cache/8d15e8c431275058fb68ebc3c3f07e1a0e9e8894/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-44c41c37d8ce8a50343c8b667214126b7cf8f878.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-1807172377e95211dfbeeeb0641f5cac9a7a3d18.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/730afae441a3486295e55ea9e80e1a4d4e20967a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2d60864028f19816ebc184d074abfc4b7853f2d3.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-4d69b83d8347f5b3084c16b04947f6bee7fd1446.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/b25e742a3c43181744a794e12e5ae55ef4de4106/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5dde7cb090a4175ac0b7cc73f99867a9da544c30.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/e7b78bd38efabd6208ddf9fb2d536b3e576b1e98/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-43cf00d304b0e2b5e93520d39cf2edbb0333f4a8.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/bcfc179290722b67a48a5cc7a600c1660d07921a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e9e4d11ef13727bc2262d7e8de2173bebcb1d051.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/e7e6c82b0082be13a357c19e6d07961a6d0c8d65/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5cb341256c8924a9c970b854018923f6702d0e6c.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/7caef28764f0d04e2e1f58e17b5d10085149faa1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-37f59549dc46ecceebba3a22595597ac26389185.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/e5ab3e4e354579522f1ad3e47acaea62ec27ee87/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-47ae3586a225dc8cb83e6a9e8ac182eb2ef04753.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/7717baa8a0308cc12ac7022529af8c0d55bd03e6/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-93b36c5cddcc779ab31b0f3506e39c5e97b676dd.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/677820600f1dde47df6c8979b533218d808a16ef/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-845732a644d25378bdc525319686251ca30a9e35.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/393a32cbd32262234aba3315a714c8204f163217/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-af7d2ca0b07957380324b54cc35c32847c81f5df.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/4f377b4339854d6318e0b7891394aa77938fdb9e/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5855f7400189f95dd7c549831798ae8a54d4d0e1.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta5/constraint-layout-solver-1.0.0-beta5.jar"
+        revision="25.0.2"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-beta5-2555c118bdc9e8332b887446df1ca0a6f2de1c07.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-cd035d24ddd07f222e46cb68a0a2b5716c556d0e.jar" />
+    </item>
+    <item
+        jar="/Users/stefan/.android/build-cache/38e84c6ff96ce56977231d6ee67bf0045359530a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-43c11448a5bfb07dd000ac67859ce6ce8ab96c44.jar" />
+    </item>
+
+</items>
