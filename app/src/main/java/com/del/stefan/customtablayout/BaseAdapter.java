@@ -7,13 +7,15 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.viethoa.RecyclerViewFastScroller;
+
 import java.util.List;
 
 /**
  * Created by stefan on 3/30/17.
  */
 
-public class BaseAdapter extends SectionedRecyclerViewAdapter<BaseAdapter.HeaderHolder, BaseAdapter.ContactHolder> {
+public class BaseAdapter extends SectionedRecyclerViewAdapter<BaseAdapter.HeaderHolder, BaseAdapter.ContactHolder> implements RecyclerViewFastScroller.BubbleTextGetter {
     private static String TAG = "Base Adapter";
     List<Contact> mContactList;
 
@@ -51,6 +53,18 @@ public class BaseAdapter extends SectionedRecyclerViewAdapter<BaseAdapter.Header
     @Override
     public int getItemSize() {
         return mContactList.size();
+    }
+
+    @Override
+    public String getTextToShowInBubble(int pos) {
+        if (pos < 0 || pos >= mContactList.size())
+            return null;
+
+        String name = mContactList.get(pos).getName();
+        if (name == null || name.length() < 1)
+            return null;
+
+        return mContactList.get(pos).getName().substring(0, 1);
     }
 
     static class HeaderHolder extends RecyclerView.ViewHolder {

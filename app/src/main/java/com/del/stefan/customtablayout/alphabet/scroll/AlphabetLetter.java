@@ -8,12 +8,12 @@ public class AlphabetLetter {
 
     private int position;
     private String letter;
-    private boolean isActive;
+    private boolean active;
 
     public AlphabetLetter(int position, String letter, boolean isActive) {
         this.position = position;
         this.letter = letter;
-        this.isActive = isActive;
+        this.active = isActive;
     }
 
     public AlphabetLetter() {
@@ -36,10 +36,10 @@ public class AlphabetLetter {
     }
 
     public boolean isActive() {
-        return isActive;
+        return active;
     }
 
-    public void setActive(boolean active) {
-        isActive = active;
+    public void setActive(boolean isActive) {
+        active = isActive;
     }
 }

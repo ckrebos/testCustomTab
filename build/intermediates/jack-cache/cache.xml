@@ -20,12 +20,6 @@
         <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2d60864028f19816ebc184d074abfc4b7853f2d3.jar" />
     </item>
     <item
-        jar="/Users/stefan/Library/Android/sdk/platforms/android-25/android.jar"
-        revision="25.0.2"
-        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
-        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-4d69b83d8347f5b3084c16b04947f6bee7fd1446.jar" />
-    </item>
-    <item
         jar="/Users/stefan/.android/build-cache/b25e742a3c43181744a794e12e5ae55ef4de4106/output/jars/classes.jar"
         revision="25.0.2"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
@@ -92,10 +86,10 @@
         <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-beta5-2555c118bdc9e8332b887446df1ca0a6f2de1c07.jar" />
     </item>
     <item
-        jar="/Users/stefan/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        jar="/Users/stefan/.android/build-cache/3f05845f82cb9cab5e9c498a729d867c80d69441/output/jars/classes.jar"
         revision="25.0.2"
-        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
-        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-cd035d24ddd07f222e46cb68a0a2b5716c556d0e.jar" />
+        sha1="24a29875bd9594b77cfd1e4d4389df7b91c0c163">
+        <dex dex="/Users/stefan/AndroidStudioProjects/TestCustomTabs/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a332663fa06d8d777c62ea087039a74cb6b58d3d.jar" />
     </item>
     <item
         jar="/Users/stefan/.android/build-cache/38e84c6ff96ce56977231d6ee67bf0045359530a/output/jars/classes.jar"

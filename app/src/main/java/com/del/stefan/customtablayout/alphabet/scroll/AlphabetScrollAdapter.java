@@ -1,6 +1,7 @@
 package com.del.stefan.customtablayout.alphabet.scroll;
 
 import android.content.Context;
+import android.graphics.Typeface;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,6 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.del.stefan.customtablayout.R;
+import com.viethoa.RecyclerViewFastScroller;
 
 import java.util.List;
 
@@ -29,7 +31,7 @@ public class AlphabetScrollAdapter extends RecyclerView.Adapter<AlphabetScrollAd
         this.mListener = listener;
     }
 
-    public void refreshDataSetChange(List<AlphabetLetter> newLetters) {
+    public void updateScrollLetters(List<AlphabetLetter> newLetters) {
         this.mLettersArray = newLetters;
         notifyDataSetChanged();
     }
@@ -46,6 +48,7 @@ public class AlphabetScrollAdapter extends RecyclerView.Adapter<AlphabetScrollAd
             return;
 
         holder.mLetter.setText(letter.getLetter());
+        holder.mLetter.setTypeface(null, letter.isActive() ? Typeface.BOLD : Typeface.NORMAL);
         holder.mLetter.setTextColor(letter.isActive()
                 ? mContext.getResources().getColor(R.color.colorAccent)
                 : mContext.getResources().getColor(R.color.colorPrimaryDark));
@@ -67,7 +70,6 @@ public class AlphabetScrollAdapter extends RecyclerView.Adapter<AlphabetScrollAd
             return 0;
         return mLettersArray.size();
     }
-
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         TextView mLetter;
